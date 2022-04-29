@@ -56,21 +56,21 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
    >>- [x]  Chrome Json Viewer Eklentisinin kurulması
 
 > 4.Hafta:
->>- [ ] package.json Dosyasının Oluşturulması:
-  >>- [ ] name
-  >>- [ ] version
-  >>- [ ] main 
-  >>- [ ] license
+>>- [x] package.json Dosyasının Oluşturulması:
+  >>- [x] name
+  >>- [x] version
+  >>- [x] main 
+  >>- [x] license
 
 > 5. Hafta:
->>- [ ] Node.js Dependencies ve Paketleri:
-  >>- [ ] npm axios
-  >>- [ ] npm cheerio
-  >>- [ ] npm express
+>>- [x] Node.js Dependencies ve Paketleri:
+  >>- [x] npm axios
+  >>- [x] npm cheerio
+  >>- [x] npm express
 
 > 6.Hafta
->>- [ ] index.js dosyası: 
- >> - [ ]  localhost ve port tanımlama
+>>- [x] index.js dosyası: 
+ >> - [x]  localhost ve port tanımlama
   >>- [ ]  npm nesnelerinden require objeleri oluşturma
   >>- [ ]  fonksiyon tanımlama
   >>- [ ]  server url slug data gruplandırma
