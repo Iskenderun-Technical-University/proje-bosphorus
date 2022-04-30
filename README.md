@@ -16,7 +16,9 @@ flowchart LR
    C --> D[.xml]
    C --> E[.csv]
 ```
+> ### _UML Sınıf Diyagramı:_
 
+![Ymg_Boshphorus_Uml](https://user-images.githubusercontent.com/24902892/166099145-4091a47a-24cb-4028-b81f-aefde9eb0cc7.svg)
 
 
 
@@ -46,7 +48,7 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
 > 2.Hafta:  
 >>- [ ] Proje Genel Durum Diyagramlarını Oluşturmak
   >>- [x] Usecase Diyagramı
-  >>- [ ] UML Diyagramı
+  >>- [x] UML Diyagramı
 
 > 3.Hafta:
 >>- [x] Gerekli Yazılımların Kurulması:
