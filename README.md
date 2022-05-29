@@ -46,7 +46,7 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
  >> - [x]  Mermaid ve PlantUml Eklentileri ([docs](https://mermaid-js.github.io/mermaid/#/)) ([docs](https://plantuml.com/))
 
 > 2.Hafta:  
->>- [ ] Proje Genel Durum Diyagramlarını Oluşturmak
+>>- [x] Proje Genel Durum Diyagramlarını Oluşturmak
   >>- [x] Usecase Diyagramı
   >>- [x] UML Diyagramı
 
