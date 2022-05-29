@@ -1,7 +1,7 @@
 {
-  "name": "MGM WEB SCRAPER",
+  "name": "BOSPHORUS WEB SCRAPER",
   "version": "1.0.0",
-  "description": "",
+  "description": "Spesifik bir kelime anahtarı ile arama yapma ve filtreleme",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
