@@ -2,23 +2,38 @@ const PORT = 8000
 const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
-const {response} = require("express");
+
 
 const app = express()
 
+const articles = []
+
 app.get('/',(req, res) => {
-  res.json('welcome to my API')
+    res.json('welcome to Bosphorus API')
 
 })
 
-app.get('/news',(req, res) => {
-    axios.get('https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx#/')
+app.get('/haberler',(req, res) => {
+    axios.get('https://www.haberler.com/')
         .then((response) =>{
             const html = response.data
-            console.log(html)
+            const $ = cheerio.load(html)
 
-        })
+            $('a:contains("")', html).each(function(){
+
+                const title = $(this).text()
+                const url = $(this).attr('href')
+                articles.push({
+                    title,
+                    url
+
+                })
+
+
+            })
+            res.json(articles)
+        }).catch((err) => console.log(err))
 
 })
 
-app.listen(PORT,() => console.log('server running on PORT ${PORT}'))
+app.listen(PORT,() => console.log('server running on PORT 8000'))
