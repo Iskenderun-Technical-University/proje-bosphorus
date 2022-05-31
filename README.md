@@ -46,7 +46,7 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
  >> - [x]  Mermaid ve PlantUml Eklentileri ([docs](https://mermaid-js.github.io/mermaid/#/)) ([docs](https://plantuml.com/))
 
 > 2.Hafta:  
->>- [ ] Proje Genel Durum Diyagramlarını Oluşturmak
+>>- [x] Proje Genel Durum Diyagramlarını Oluşturmak
   >>- [x] Usecase Diyagramı
   >>- [x] UML Diyagramı
 
@@ -73,13 +73,13 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
 > 6.Hafta
 >>- [x] index.js dosyası: 
  >> - [x]  localhost ve port tanımlama
-  >>- [ ]  npm nesnelerinden require objeleri oluşturma
-  >>- [ ]  fonksiyon tanımlama
-  >>- [ ]  server url slug data gruplandırma
-  >>- [ ]  spesifik bilgiyi almak için data filtreleme
+  >>- [x]  npm nesnelerinden require objeleri oluşturma
+  >>- [x]  fonksiyon tanımlama
+  >>- [x]  server url slug data gruplandırma
+  >>- [x]  spesifik bilgiyi almak için data filtreleme
 
 > 7.Hafta:
->>- [ ]  Filtrelenen veriyi extract etme ve yapılandırma
+>>- [x]  Filtrelenen veriyi extract etme ve yapılandırma
 
 > 8.Hafta:
 >>- [ ]  Yapılandırılmış veriyi okunabilir hale getirme(.xml/.csv)
