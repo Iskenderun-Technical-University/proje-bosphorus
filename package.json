@@ -1,16 +1,17 @@
 {
-  "name": "BOSPHORUS WEB SCRAPER",
+  "name": "bosphorus-api",
   "version": "1.0.0",
-  "description": "Spesifik bir kelime anahtarı ile arama yapma ve filtreleme",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "mehmet",
+  "author": "Mehmet Kesimalioğlu",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.3"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
   }
 }
