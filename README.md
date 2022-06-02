@@ -82,7 +82,7 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
 >>- [x]  Filtrelenen veriyi extract etme ve yapılandırma
 
 > 8.Hafta:
->>- [ ]  Yapılandırılmış veriyi okunabilir hale getirme(.xml/.csv)
+>>- [x]  Yapılandırılmış veriyi okunabilir hale getirme(.xml/.csv)
 
 ## Proje Takım:
 
