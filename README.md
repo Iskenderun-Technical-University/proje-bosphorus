@@ -82,7 +82,13 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
 >>- [x]  Filtrelenen veriyi extract etme ve yapılandırma
 
 > 8.Hafta:
->>- [x]  Yapılandırılmış veriyi okunabilir hale getirme(.xml/.csv)
+>>- [x]  Yapılandırılmış veriyi okunabilir hale getirme(.xml/.csv)+(json.)
+
+> Ek1:
+>>- [x]  Veriler için hosting sağlama
+
+> Ek2:
+>>- [x]  Api oluşturma ve yayınlama
 
 ## Proje Takım:
 
@@ -90,4 +96,8 @@ _Daha fazla bilgi için ziyaret edebilirsiniz: [Legality and Ethics of Web Scrap
    - _İSTE Bilgisayar Mühendisliği_
      - 202503211
 
+Ders Öğretim Görevlisi: Dr.Levent KARACAN
+ _İskenderun Teknik Üniversitesi_
+ 
+Proje Api Linki: https://rapidapi.com/mkesim/api/turkish-news1
 
