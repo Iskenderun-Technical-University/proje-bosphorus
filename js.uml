@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JavaScript-modules-diagram</ID>
+  <OriginalElement>C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js</OriginalElement>
+  <nodes>
+    <node x="180.0" y="296.0">C:/Users/mehme/WebstormProjects/bosphorus-updated/node_modules/axios/index.d.ts</node>
+    <node x="108.0" y="82.0">C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#axios#79;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#cheerio#110;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#express#44;</node>
+    <node x="262.0" y="0.0">cheerio</node>
+    <node x="0.0" y="122.0">express</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#axios#79;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#cheerio#110;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#express#44;" target="express" relationship="">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#axios#79;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#cheerio#110;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#express#44;" target="cheerio" relationship="">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#axios#79;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#cheerio#110;C:/Users/mehme/WebstormProjects/bosphorus-updated/index.js#express#44;" target="C:/Users/mehme/WebstormProjects/bosphorus-updated/node_modules/axios/index.d.ts" relationship="">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="166.0" y="163.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>All</Category>
+  </Categories>
+  <VISIBILITY>Details</VISIBILITY>
+</Diagram>
+
